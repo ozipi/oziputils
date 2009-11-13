@@ -2,6 +2,8 @@ h1. Oziputils
 
 General purpouse utils for personal use
 
+h2. Profile configuration file with svn and git lookups
+
 h3. Installation of the profile 
 
 # Rename the bash_profiles/.profile_git_svn_check to .profile
