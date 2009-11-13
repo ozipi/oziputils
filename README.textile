@@ -15,6 +15,7 @@ h3. Usage
 Just go to any SVN or GIT directory, your prompt will indicate the type of version control and the current branch and also the current revision number on svn
 
 h3. Examples:
+
 <pre><code>[ozipi@Ox0 ~/stuff/code/utils ] cd oziputils/
 [ozipi@Ox0 ~/stuff/code/utils/oziputils (git::master) ]</code></pre>
 
